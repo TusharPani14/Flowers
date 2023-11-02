@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "builds": [{ "src": "flower.html", "use": "@vercel/static" }],
+    "routes": [{ "src": "/flower.html", "dest": "flower.html" }]
+}
+  
